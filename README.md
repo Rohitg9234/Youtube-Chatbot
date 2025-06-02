@@ -11,7 +11,7 @@ Built with **Streamlit** and powered by **Together API**.
 Experience a seamless interface to extract, process, and chat with YouTube video transcripts!
 
 <p align="center">
-  <img src="Step 1.png" alt="Step 1" width="400"/>
+  <img src="Step 1.png" alt="Step 1" />
   <img src="Step 2.png" alt="Step 2" width="400"/>
   <br>
   <img src="Step 3.png" alt="Step 3" width="400"/>
