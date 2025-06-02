@@ -1,8 +1,3 @@
-Absolutely! Here’s a **visually appealing, beginner-friendly, and professional** `README.md` for your project—**including image displays for your UI steps**.
-
-Replace the sample image links (`Step1.png`, etc.) with the correct filenames if needed. Place your images in the repository root, or a `/screenshots` folder (update the paths in the markdown if you do).
-
----
 
 # Youtube-Chatbot 🎥💬
 
@@ -16,13 +11,13 @@ Built with **Streamlit** and powered by **Together API**.
 Experience a seamless interface to extract, process, and chat with YouTube video transcripts!
 
 <p align="center">
-  <img src="Step1.png" alt="Step 1" width="400"/>
-  <img src="Step2.png" alt="Step 2" width="400"/>
+  <img src="Step 1.png" alt="Step 1" width="400"/>
+  <img src="Step 2.png" alt="Step 2" width="400"/>
   <br>
-  <img src="Step3.png" alt="Step 3" width="400"/>
-  <img src="Step4.png" alt="Step 4" width="400"/>
+  <img src="Step 3.png" alt="Step 3" width="400"/>
+  <img src="Step 4.png" alt="Step 4" width="400"/>
   <br>
-  <img src="Step5.png" alt="Step 5" width="400"/>
+  <img src="Step 5.png" alt="Step 5" width="400"/>
 </p>
 
 ---
@@ -129,11 +124,3 @@ MIT
 
 ### ✨ Happy Chatting with YouTube! ✨
 
----
-
-**Tips:**
-
-* If you want, add a “Usage Example” section to show a real chat in action!
-* You can also use [shields.io](https://shields.io/) badges for status, license, etc.
-
-Let me know if you want me to add any **badges, usage GIFs, or extra sections**!
