@@ -12,12 +12,12 @@ Experience a seamless interface to extract, process, and chat with YouTube video
 
 <p align="center">
   <img src="Step 1.png" alt="Step 1" />
-  <img src="Step 2.png" alt="Step 2" width="400"/>
+  <img src="Step 2.png" alt="Step 2" />
   <br>
-  <img src="Step 3.png" alt="Step 3" width="400"/>
-  <img src="Step 4.png" alt="Step 4" width="400"/>
+  <img src="Step 3.png" alt="Step 3" />
+  <img src="Step 4.png" alt="Step 4" />
   <br>
-  <img src="Step 5.png" alt="Step 5" width="400"/>
+  <img src="Step 5.png" alt="Step 5" />
 </p>
 
 ---
